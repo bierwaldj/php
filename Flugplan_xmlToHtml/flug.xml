@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<flugplan>
+     <abflug name='Abflug'>
+          <flug>
+               <nummer name='Flug-Nr.'>IB 3137</nummer>
+               <nach name='nach'>Madrid-Barajas</nach>
+               <geplant name='Geplant'>07:55</geplant>
+               <erwartet name='Erwartet'>8:03</erwartet>
+               <gate name='Gate'>B73</gate>
+               <checkin name='Check-in'>205-207</checkin>
+               <bemerkung name='Bemerkung'>gestartet</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 8012</nummer>
+               <nach>Stockholm</nach>
+               <geplant>07:55</geplant>
+               <erwartet>8:05</erwartet>
+               <gate>B57</gate>
+               <checkin>151-170</checkin>
+               <bemerkung>gestartet</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 8682</nummer>
+               <nach>Bologna</nach>
+               <geplant>08:05</geplant>
+               <erwartet>-</erwartet>
+               <gate>B42B</gate>
+               <checkin>151-170</checkin>
+               <bemerkung>Boarding</bemerkung>
+          </flug>
+          <flug>
+               <nummer>4U 8041</nummer>
+               <nach>Berlin-Tegel</nach>
+               <geplant>8:15</geplant>
+               <erwartet>-</erwartet>
+               <gate>A49</gate>
+               <checkin>106-120</checkin>
+               <bemerkung>rollt</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 6742</nummer>
+               <nach>Hamburg</nach>
+               <geplant>8:15</geplant>
+               <erwartet>8:40</erwartet>
+               <gate>B40</gate>
+               <checkin>151-170</checkin>
+               <bemerkung>Boarding</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 8762</nummer>
+               <nach>Venedig</nach>
+               <geplant>08:15</geplant>
+               <erwartet>-</erwartet>
+               <gate>B78</gate>
+               <checkin>151-170</checkin>
+               <bemerkung>Boarding beendet</bemerkung>
+          </flug>
+          <flug>
+               <nummer>4U 7061</nummer>
+               <nach>Hamburg</nach>
+               <geplant>08:20</geplant>
+               <erwartet>-</erwartet>
+               <gate>A63</gate>
+               <checkin>106-120</checkin>
+               <bemerkung>Boarding beendet</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB6025</nummer>
+               <nach>München</nach>
+               <geplant>08:20</geplant>
+               <erwartet>-</erwartet>
+               <gate>B21</gate>
+               <checkin>151-170</checkin>
+               <bemerkung>Boarding beendet</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB6434</nummer>
+               <nach>Berlin-Tegel</nach>
+               <geplant>08:20</geplant>
+               <erwartet>-</erwartet>
+               <gate>B28</gate>
+               <checkin>151-170</checkin>
+               <bemerkung>Boarding beendet</bemerkung>
+          </flug>
+          <flug>
+               <nummer>LH 075</nummer>
+               <nach>Frankfurt</nach>
+               <geplant>08:25</geplant>
+               <erwartet>-</erwartet>
+               <gate>A39</gate>
+               <checkin>132-136</checkin>
+               <bemerkung>Boarding</bemerkung>
+          </flug>
+
+     </abflug>
+
+     <ankunft name='Ankunft'>
+          <flug>
+               <nummer name='Flug-Nr.'>AB 8621</nummer>
+               <aus name='aus'>Genf</aus>
+               <geplant name='Geplant'>8:05</geplant>
+               <erwartet name='Erwartet'>8:02</erwartet>
+               <ausgang name='Ausgang'>4</ausgang>
+               <bemerkung name='Bemerkung'>gelandet</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 8761</nummer>
+               <aus>Venedig</aus>
+               <geplant>08:05</geplant>
+               <erwartet>7:58</erwartet>
+               <ausgang>1</ausgang>
+               <bemerkung>gelandet</bemerkung>
+          </flug>
+          <flug>
+               <nummer>OS 205</nummer>
+               <aus>Linz</aus>
+               <geplant>8:10</geplant>
+               <erwartet>-</erwartet>
+               <ausgang>-</ausgang>
+               <bemerkung>annuliert</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AZ 418</nummer>
+               <aus>Mailand-Linate</aus>
+               <geplant>8:20</geplant>
+               <erwartet>8:33</erwartet>
+               <ausgang>4</ausgang>
+               <bemerkung>im Anflug</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 8881</nummer>
+               <aus>Florenz</aus>
+               <geplant>8:20</geplant>
+               <erwartet>8:40</erwartet>
+               <ausgang>6</ausgang>
+               <bemerkung>-</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 8681</nummer>
+               <aus>Bologna</aus>
+               <geplant>08:20</geplant>
+               <erwartet>8:30</erwartet>
+               <ausgang>4</ausgang>
+               <bemerkung>-</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 8711</nummer>
+               <aus>Rom-Fiumicino</aus>
+               <geplant>08:25</geplant>
+               <erwartet>-</erwartet>
+               <ausgang>4</ausgang>
+               <bemerkung>-</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 8011</nummer>
+               <aus>Stockholm</aus>
+               <geplant>08:30</geplant>
+               <erwartet>-</erwartet>
+               <ausgang>5</ausgang>
+               <bemerkung>im Anflug</bemerkung>
+          </flug>
+          <flug>
+               <nummer>AB 6022</nummer>
+               <aus>München</aus>
+               <geplant>08:30</geplant>
+               <erwartet>08_45</erwartet>
+               <ausgang>4</ausgang>
+               <bemerkung>-</bemerkung>
+          </flug>
+          <flug>
+               <nummer>OK 522</nummer>
+               <aus>Prag</aus>
+               <geplant>08:35</geplant>
+               <erwartet>08:25</erwartet>
+               <ausgang>5</ausgang>
+               <bemerkung>im Anflug</bemerkung>
+          </flug>
+     </ankunft>
+</flugplan>
